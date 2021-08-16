@@ -33,6 +33,8 @@ python -m pyscli
 python3 -m pyscli
 ```
 
+<br><br>
+
 ## **How to Use PySCli?**
 ```python
 import pyscli

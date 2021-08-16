@@ -1,4 +1,4 @@
-# PySCLI
+# PySCli
 
 ## **About:**
 A Simple Python Module to get User - Terminal Commands
@@ -8,14 +8,14 @@ A Simple Python Module to get User - Terminal Commands
 ## **How To Install?**
 ***Windows***:
 ```cmd
-python -m pip install git+https://github.com/sancho1952007/PySCLI.git
+python -m pip install git+https://github.com/sancho1952007/PySCli.git
 ```
 
 <br>
 
 ***Linux:***
 ```bash
-python3 -m pip install git+https://github.com/sancho1952007/PySCLI.git
+python3 -m pip install git+https://github.com/sancho1952007/PySCli.git
 ```
 
 <br><br>

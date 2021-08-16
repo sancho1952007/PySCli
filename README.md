@@ -45,4 +45,8 @@ This Will Return True If User Enters *Windows: `your-file.py --hello`* or *Linux
 It Detects Extra Arguments eg: `--user, --hi, --hello, and Custom Arguments`!  
 
 You Can Add Unlimited Arguments! But, Remember: USE `sensitive` keyword to keep argument Case Sensitive ot NOT!  
-eg: `sensitive=True` or `sensitive=False`
+eg: `sensitive=True` or `sensitive=False` at the END of the Function eg: cli('{keywords}', sensitive=True).  
+
+<br><br>
+
+# *Thank You :)*

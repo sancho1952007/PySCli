@@ -38,7 +38,7 @@ python3 -m pyscli
 ## **How to Use PySCli?**
 ```python
 import pyscli
-cmd=cli('--hello', sensitive=False)
+cmd=pyscli.cli('--hello', sensitive=False)
 print(cmd)
 ```
 

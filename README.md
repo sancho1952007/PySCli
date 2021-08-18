@@ -8,14 +8,14 @@ A Simple Python Module to get User - Terminal Commands
 ## **How To Install?**
 ***Windows***:
 ```cmd
-python -m pip install git+https://github.com/sancho1952007/PySCli.git
+python -m pip install PySCli
 ```
 
 <br>
 
 ***Linux:***
 ```bash
-python3 -m pip install git+https://github.com/sancho1952007/PySCli.git
+python3 -m pip install PySCli
 ```
 
 <br><br>
